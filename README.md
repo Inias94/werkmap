@@ -1,2 +1,0 @@
-# werkmap
-schoolwerk
